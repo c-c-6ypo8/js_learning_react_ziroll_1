@@ -3,7 +3,6 @@
     "ru"
   ],
   "spellright.documentTypes": [
-    "latex",
-    "plaintext"
+    "latex"
   ]
 }

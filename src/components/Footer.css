@@ -1,0 +1,10 @@
+footer {
+  background-color: #161619;
+  padding: 20px 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.social-pic {
+  margin: 0px 12px;
+}

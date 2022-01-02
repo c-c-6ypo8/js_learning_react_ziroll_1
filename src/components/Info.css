@@ -1,0 +1,63 @@
+.info {
+  text-align: center;
+}
+
+.user-name {  
+  padding: 15px 0 5px;
+  font-weight: 600;
+  font-size: 25px;  
+  line-height: 25px;
+}
+
+.user-profession {
+  padding-bottom: 5px;
+  font-weight: 200;
+  font-size: 12.8px;
+  color: #f3bf99;
+}
+
+.user-site {
+  font-weight: 200;
+  font-size: 10.24px;  
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+.picture {
+  width: 100%;
+  height: var(--card-width);
+  background-image: url(../assets/photo.jpg);
+  background-size: cover;
+}
+
+.buttons {
+  padding: 15px 0px;
+  display: flex;
+  gap: 17px;
+  justify-content: center;
+}
+
+.buttons > button {  
+  width: 100%;
+  height: 34px;
+  border-radius: 7px;
+  border: none;  
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons > button > img {
+  margin-right: 8px;
+}
+
+.button-email {
+  background-color: white;
+  color: #374151;
+}
+
+.button-linkedin {
+  background-color: #5093e2;
+  color: var(--font-color);
+}

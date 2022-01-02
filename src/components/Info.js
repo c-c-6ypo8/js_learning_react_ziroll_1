@@ -18,7 +18,7 @@ export const Info = () => {
             Email
           </button>
           <button className='button button-linkedin'>
-            <img src={linkedin} alt='email' />
+            <img src={linkedin} alt='linkedin' />
             LinkedIn
           </button>
         </div>
